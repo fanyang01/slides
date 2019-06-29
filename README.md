@@ -3,7 +3,7 @@
 ## Machine Learning
 
 + [Deep Generative Models](pdf/Deep-Generative-Models.pdf)
-+ [SSM, SRNN, and VI](pdf/SSM-SRNN-and-VI.pdf)
++ [Probabilistic Models for Sequential Data](pdf/Deep-SSM.pdf)
 + [Variational Inference](pdf/Variational-Inference.pdf)
 + [Graph Neural Networks](pdf/Graph-Neural-Networks.pdf)
 
