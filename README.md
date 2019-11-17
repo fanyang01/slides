@@ -2,6 +2,7 @@
 
 ## Machine Learning
 
++ [Likelihood-based Models for Out-of-Distribution Detection](pdf/DGM-for-OOD.pdf)
 + [Deep Generative Models](pdf/Deep-Generative-Models.pdf)
 + [Probabilistic Models for Sequential Data](pdf/Deep-SSM.pdf)
 + [Variational Inference](pdf/Variational-Inference.pdf)
